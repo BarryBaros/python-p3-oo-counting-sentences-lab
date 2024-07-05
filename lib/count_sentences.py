@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
 
 class MyString:
-  pass
+  def is_sentence(self, value=''):
+    self.value = value
+
+  
